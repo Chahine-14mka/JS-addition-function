@@ -10,17 +10,17 @@ console.log('De twee getallen opgeteld geven: ' + som);
 
 }
 
+function aftrek(getal3, getal4){
+
+let som2 = getal3 - getal4;
+
+console.log('De eerste getal min de tweede getal geeft: ' + som2);
+
+}
+
 optel(2, 3);
 
-optel(54, 88);
-
-optel(234, 546);
-
-
-                            
-                    
-
-
+aftrek(5, 3);
 
 
 
