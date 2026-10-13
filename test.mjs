@@ -2,6 +2,8 @@ import * as readline from 'node:readline/promises';
 import{stdin as input, stdout as output } from 'node:process';
 const userInput = readline.createInterface({input, output});
 
+console.log('Hallo!');
+
 function optel(getal1, getal2){
 
 let som = getal1 + getal2;
